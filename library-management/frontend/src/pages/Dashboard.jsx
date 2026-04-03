@@ -15,6 +15,8 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
+    if (!user || !user.userId) return;
+
     const fetchDashboard = async () => {
       try {
         const [dashRes, myRes] = await Promise.all([
@@ -34,7 +36,7 @@ export default function Dashboard() {
     };
     
     fetchDashboard();
-  }, [isAdmin, user.userId]);
+  }, [isAdmin, user?.userId]);
 
   if (loading || !stats) {
     return <div className="animate-pulse flex space-x-4"><div className="flex-1 space-y-6 py-1"><div className="h-6 bg-border rounded w-1/4"></div><div className="space-y-3"><div className="grid grid-cols-1 md:grid-cols-3 gap-6"><div className="h-24 bg-border rounded"></div><div className="h-24 bg-border rounded"></div><div className="h-24 bg-border rounded"></div></div></div></div></div>;
