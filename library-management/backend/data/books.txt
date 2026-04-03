@@ -1,0 +1,12 @@
+BK001|978-0-7432-7356-5|To Kill a Mockingbird|Harper Lee|1960|Classic Fiction|Grand Central Publishing|3|3|English|AVAILABLE
+BK002|978-0-7432-7357-2|1984|George Orwell|1949|Dystopian Fiction|Signet Classic|4|3|English|AVAILABLE
+BK003|978-0-06-112008-4|The Great Gatsby|F. Scott Fitzgerald|1925|Classic Fiction|Scribner|2|2|English|AVAILABLE
+BK004|978-0-14-028329-7|The Catcher in the Rye|J.D. Salinger|1951|Literary Fiction|Little, Brown|3|2|English|AVAILABLE
+BK005|978-0-545-01022-1|Harry Potter and the Sorcerer's Stone|J.K. Rowling|1997|Fantasy|Scholastic|5|4|English|AVAILABLE
+BK006|978-0-06-093546-9|The Kite Runner|Khaled Hosseini|2003|Literary Fiction|Riverhead Books|3|3|English|AVAILABLE
+BK007|978-0-316-76948-0|The Catcher in the Rye|J.D. Salinger|1951|Literary Fiction|Little Brown|3|1|English|ISSUED
+BK008|978-0-374-52954-0|Introduction to Algorithms|Cormen, Leiserson, Rivest|2009|Computer Science|MIT Press|4|4|English|AVAILABLE
+BK009|978-0-13-110362-7|The C Programming Language|Brian W. Kernighan|1988|Computer Science|Prentice Hall|3|3|English|AVAILABLE
+BK010|978-0-201-63361-0|Design Patterns|Erich Gamma|1994|Computer Science|Addison-Wesley|2|1|English|ISSUED
+BK011|978-0-679-72020-1|Crime and Punishment|Fyodor Dostoevsky|1866|Classic Fiction|Vintage|2|2|English|AVAILABLE
+BK012|978-0-14-303943-3|Sapiens: A Brief History of Humankind|Yuval Noah Harari|2011|Non-Fiction|Harper Perennial|4|4|English|AVAILABLE

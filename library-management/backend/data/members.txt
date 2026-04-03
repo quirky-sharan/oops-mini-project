@@ -1,0 +1,5 @@
+STU001|Aanya Sharma|aanya@college.edu|pass123|9876543210|CS2021001|Computer Science|1|2024-01-10
+STU002|Rohan Mehta|rohan@college.edu|pass123|9876543211|CS2021002|Computer Science|0|2024-01-10
+STU003|Priya Nair|priya@college.edu|pass123|9876543212|EC2021001|Electronics|2|2024-01-12
+STU004|Arjun Patel|arjun@college.edu|pass123|9876543213|ME2021001|Mechanical|0|2024-01-15
+STU005|Divya Krishnan|divya@college.edu|pass123|9876543214|CS2021003|Computer Science|1|2024-01-20
