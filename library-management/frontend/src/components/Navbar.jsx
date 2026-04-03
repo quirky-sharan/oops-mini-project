@@ -23,11 +23,11 @@ export default function Navbar() {
         
         <div className="flex items-center gap-3 ml-2 pl-4 border-l border-border">
           <div className="hidden text-right md:block">
-            <p className="text-sm font-medium">{user.name}</p>
-            <p className="text-xs text-text-secondary">{user.role}</p>
+            <p className="text-sm font-medium">{user?.name || 'User'}</p>
+            <p className="text-xs text-text-secondary">{user?.role || 'Guest'}</p>
           </div>
           <div className="w-9 h-9 rounded-full bg-accent text-white flex items-center justify-center font-bold text-sm uppercase">
-            {user.name.charAt(0)}
+            {user?.name ? user.name.charAt(0) : 'U'}
           </div>
           <button onClick={handleLogout} className="ml-2 text-text-secondary hover:text-danger">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-5 h-5">
